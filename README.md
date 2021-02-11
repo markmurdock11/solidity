@@ -26,3 +26,10 @@ This assignment has two levels of difficulty, with each contract increasing in c
 
 * **Level Two** is a `TieredProfitSplitter` that will distribute different percentages of incoming Ether to employees at different tiers/levels. For example, the CEO gets paid 60%, CTO 25%, and Bob gets 15%.
 
+## Homework Guidance From Rice
+
+![](photos/rename.png)
+![](photos/1.png)
+![](photos/2.png)
+![](photos/3.png)
+![](photos/4.png)
